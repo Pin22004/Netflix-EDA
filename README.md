@@ -1,5 +1,6 @@
 # Netflix-EDA
 
+
 Exploratory Data Analysis of Netflix Movies and TV Shows
 
 **Overview:**
@@ -11,7 +12,8 @@ The project utilizes the Netflix Movies and TV Shows dataset, providing insights
 - File Name: netflix_dataset.csv
 - Description: This dataset serves as a snapshot of Netflix's content library and serves as the foundation for various analyses within this project.
 
-![image](https://github.com/Pin22004/Netflix-EDA/assets/100960722/92f2377e-df15-4456-96a5-8bc1f586b289)
+![image](https://github.com/Pin22004/Netflix-EDA/assets/100960722/abd48246-03c4-449f-b36c-ff6d23dd12a5)
+
 
 **Key Questions Explored:**
 1. Content Trends Over the Years: Examined the evolution of Netflix's content library over different time periods.
