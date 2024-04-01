@@ -1,7 +1,7 @@
 # Netflix-EDA
 
 
-Exploratory Data Analysis of Netflix Movies and TV Shows
+## Exploratory Data Analysis of Netflix Movies and TV Shows
 
 **Overview:**
 This project conducts an exploratory data analysis (EDA) on the Netflix Movies and TV Shows dataset. Its objective is to analyze and visualize various aspects of Netflix content, including content trends over the years, popular content in India, movie durations, and more. The analysis is executed using Python's Pandas and Matplotlib libraries.
